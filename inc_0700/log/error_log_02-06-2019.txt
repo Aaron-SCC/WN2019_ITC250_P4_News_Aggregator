@@ -1,0 +1,52 @@
+[Feb-06-2019 0:12:53] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:12:53] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:12:53] Undefined offset: 3 in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:14:01] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:14:01] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:14:01] Undefined offset: 3 in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 15
+[Feb-06-2019 0:16:09] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 16
+[Feb-06-2019 0:16:09] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 16
+[Feb-06-2019 0:16:09] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 16
+[Feb-06-2019 0:17:54] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:17:54] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:17:54] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:28:46] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:28:46] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:28:46] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:28:46] Undefined variable: config in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 161
+[Feb-06-2019 0:28:46] Trying to get property 'items' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 161
+[Feb-06-2019 0:28:46] Undefined variable: config in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 162
+[Feb-06-2019 0:28:46] Trying to get property 'items' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 162
+[Feb-06-2019 0:29:43] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:29:43] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:29:43] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 0:29:43] Undefined variable: config in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 161
+[Feb-06-2019 0:29:43] Trying to get property 'items' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 161
+[Feb-06-2019 0:45:47] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 83
+[Feb-06-2019 0:46:17] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 83
+[Feb-06-2019 0:46:24] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 83
+[Feb-06-2019 0:53:58] Undefined variable: item in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:53:58] Trying to get property 'ID' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:12] Undefined variable: myItem in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:12] Trying to get property 'ID' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:42] Undefined variable: myItem in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:42] Trying to get property 'ID' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:45] Undefined variable: myItem in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 0:55:45] Trying to get property 'ID' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 79
+[Feb-06-2019 1:19:12] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 1:19:12] Trying to get property 'Price' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 145
+[Feb-06-2019 1:19:12] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 1:19:12] Trying to get property 'Price' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 145
+[Feb-06-2019 1:19:12] Object of class Item could not be converted to string in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 17
+[Feb-06-2019 1:19:12] Trying to get property 'Price' of non-object in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 145
+[Feb-06-2019 1:24:44] A non-numeric value encountered in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/inc_biz/biz_logic.php on line 29
+[Feb-06-2019 1:30:30] money_format() expects parameter 2 to be float, string given in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 154
+[Feb-06-2019 1:30:30] money_format() expects parameter 2 to be float, string given in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 154
+[Feb-06-2019 1:30:30] money_format() expects parameter 2 to be float, string given in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 154
+[Feb-06-2019 16:08:32] A non-numeric value encountered in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 151
+[Feb-06-2019 16:08:32] A non-numeric value encountered in /home/estgin1/tegs.tech/250/sandbox/dynamic-form/index.php on line 151
+[Feb-06-2019 22:47:31] money_format(): Only a single %i or %n token can be used in /home/estgin1/tegs.tech/wn19/food/index.php on line 103
+[Feb-06-2019 22:47:31] money_format(): Only a single %i or %n token can be used in /home/estgin1/tegs.tech/wn19/food/index.php on line 103
+[Feb-06-2019 22:47:31] money_format(): Only a single %i or %n token can be used in /home/estgin1/tegs.tech/wn19/food/index.php on line 103
+[Feb-06-2019 22:47:31] money_format(): Only a single %i or %n token can be used in /home/estgin1/tegs.tech/wn19/food/index.php on line 103
+[Feb-06-2019 22:47:31] money_format(): Only a single %i or %n token can be used in /home/estgin1/tegs.tech/wn19/food/index.php on line 103

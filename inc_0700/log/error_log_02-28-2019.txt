@@ -1,0 +1,6 @@
+[Feb-28-2019 16:48:05] Undefined variable: mySurvey in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 34
+[Feb-28-2019 16:48:05] Trying to get property 'isValid' of non-object in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 34
+[Feb-28-2019 16:48:05] Undefined variable: mySurvey in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 44
+[Feb-28-2019 16:48:05] Trying to get property 'Title' of non-object in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 44
+[Feb-28-2019 16:48:05] Undefined variable: mySurvey in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 48
+[Feb-28-2019 16:48:05] Trying to get property 'isValid' of non-object in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 48
