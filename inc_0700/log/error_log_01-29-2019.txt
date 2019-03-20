@@ -1,0 +1,28 @@
+[Jan-29-2019 2:19:09] Undefined index: LastUpdated in /home/estgin1/tegs.tech/wn19/surveys/index.php on line 123
+[Jan-29-2019 2:19:09] Undefined index: TimesViewed in /home/estgin1/tegs.tech/wn19/surveys/index.php on line 125
+[Jan-29-2019 2:21:12] Undefined index: TimesViewed in /home/estgin1/tegs.tech/wn19/surveys/index.php on line 125
+[Jan-29-2019 2:26:12] SQL statement must include a single space on each side of the SQL keyword ' from ' in /home/estgin1/tegs.tech/wn19/inc_0700/Pager_inc.php on line 136
+[Jan-29-2019 2:26:45] Undefined index: LastUpdated in /home/estgin1/tegs.tech/wn19/surveys/index.php on line 133
+[Jan-29-2019 3:28:29] Undefined index: __FILE__ in /home/estgin1/tegs.tech/wn19/surveys/index.php on line 76
+[Jan-29-2019 4:23:56] Undefined index: QuestionID in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 50
+[Jan-29-2019 4:23:56] Undefined index: QuestionID in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 50
+[Jan-29-2019 4:23:56] mysqli_fetch_assoc(): Couldn't fetch mysqli_result in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 83
+[Jan-29-2019 4:25:03] mysqli_fetch_assoc(): Couldn't fetch mysqli_result in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 83
+[Jan-29-2019 4:57:38] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 109
+[Jan-29-2019 4:57:38] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 109
+[Jan-29-2019 5:00:17] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:17] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:19] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:19] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:49] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:49] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:49] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:49] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:52] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:52] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:52] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:00:52] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:02:02] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:02:02] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:02:02] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107
+[Jan-29-2019 5:02:02] Undefined index: Answer in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 107

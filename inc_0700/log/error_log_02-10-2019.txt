@@ -1,0 +1,12 @@
+[Feb-10-2019 12:35:19] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:35:19] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
+[Feb-10-2019 12:35:19] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:35:19] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
+[Feb-10-2019 12:35:19] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:35:19] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
+[Feb-10-2019 12:37:16] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:37:16] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
+[Feb-10-2019 12:37:16] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:37:16] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
+[Feb-10-2019 12:37:16] Undefined index: Title in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 68
+[Feb-10-2019 12:37:16] Undefined index: Description in /home/estgin1/tegs.tech/wn19/surveys/survey_view.php on line 69
