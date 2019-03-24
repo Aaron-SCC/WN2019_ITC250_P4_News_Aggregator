@@ -5,6 +5,9 @@ WN2019_ITC250_P4_News_Aggregator
 Live Final
 https://www.tegs.tech/wn19/news/index.php
 
+Project Google Doc page:
+https://drive.google.com/open?id=1cnJY2BmZqVT5q17dDXCG3Q74pH6d-MuuYZ92L83KdvI
+
 
 Github link
 https://github.com/Aaron-SCC/WN2019_ITC250_P4_News_Aggregator 
