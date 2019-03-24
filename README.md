@@ -13,7 +13,8 @@ https://github.com/Aaron-SCC/WN2019_ITC250_P4_News_Aggregator
 Slack link
 https://p4-rss.slack.com
 
-
+<br>
+<br>
 
 Aaron Lewis
 aaron.lewis@seattlecentral.edu
