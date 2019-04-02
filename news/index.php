@@ -11,7 +11,7 @@ $config->metaDescription = 'News Aggregator Group Project' . $config->metaDescri
 $config->metaKeywords = 'news, rss, feed'. $config->metaKeywords;
 
 //adds font awesome icons for arrows on pager
-$config->loadhead .= '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">';
+$config->loadhead .= '<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">';
 
 /*
 $config->metaDescription = 'Web Database ITC281 class website.'; #Fills <meta> tags.
@@ -65,6 +65,10 @@ echo'<style>
 	background-color: #f1f1f1;
 	max-width:500px;
 }
+
+.collapsible i {
+    float: right;
+    
 </style>';
 
 echo'<div class="jumbotron">';
@@ -88,7 +92,7 @@ if(mysqli_num_rows($catResult) > 0)
 		 
 		echo '
 			<button type="button" class="collapsible">' . dbOut($catRow['categoryName']) . '
-			</button>
+			<i class="fas fa-chevron-down"></i></button>
 			<div class="content">
 				<div class="list-group">		
 			';
@@ -100,7 +104,8 @@ if(mysqli_num_rows($catResult) > 0)
 					echo '
 					<a href="' . VIRTUAL_PATH . '/news/feed_view.php?id=' . (int)$feedRow['feedID'] . '" 
 					class="list-group-item list-group-item-action">
-						' . dbOut($feedRow['feedName']) . '</li>
+						' . dbOut($feedRow['feedName']) . '
+                        <i class="fas fa-external-link-square-alt fa-xs"></i>
 					</a>';
 
 					
